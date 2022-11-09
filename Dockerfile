@@ -13,6 +13,7 @@ RUN set ex \
     && buildDeps=" \
         automake \
         build-essential  \
+        git \
         gcc \
         libc-dev \
         libssl-dev \
